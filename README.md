@@ -1,6 +1,10 @@
 # arm_linux_apps
 This is an effort to make apps (close source) available for ARM Linux.
 
+# To companies
+
+We are willing to help maintains ARM Linux apps. 
+
 # Currently available apps (close source)
 
 1. WPS Office 
