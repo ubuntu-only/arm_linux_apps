@@ -14,4 +14,5 @@ This is an effort to make apps (close source) available for ARM Linux.
 
 1. Visual Studio Code
 2. Chromium browser
+3. Blender
 
