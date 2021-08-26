@@ -7,4 +7,11 @@ This is an effort to make apps (close source) available for ARM Linux.
 2. Yozo Office
 3. dingtalk(钉钉)
 4. lark(飞书)
+5. Intellij Idea
+6. Pycharm
+
+# Open source apps
+
+1. Visual Studio Code
+2. Chromium browser
 
