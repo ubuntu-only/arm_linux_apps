@@ -3,7 +3,7 @@ This is an effort to make apps (close source) available for ARM Linux.
 
 # To companies
 
-We are willing to help maintains ARM Linux apps. 
+We are willing to help maintains ARM Linux apps. It could be closed source apps and not limited to ubuntu OS.
 
 # Currently available apps (close source)
 
